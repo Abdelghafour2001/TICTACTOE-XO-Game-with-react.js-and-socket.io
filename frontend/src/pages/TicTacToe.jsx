@@ -3,7 +3,7 @@ import io from "socket.io-client"
 import './styles/TicTacToe.css'
 
 // const socket = io("http://localhost:5000")
-const socket = io("https://XO.herokuapp.com/")
+const socket = io("https://xo-abdel.herokuapp.com/")
 
 const TicTacToe = () => {
     const [player, setPlayer] = useState();
