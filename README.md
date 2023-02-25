@@ -3,5 +3,5 @@
  - Login to the Room you and your opponent : <br/>
 <img src="./TICTACpics/1.png" alt="index1" height="300px"/> <br/>
  - Enjoy the game : <br/>
+<img src="./TICTACpics/2.png" alt="index1" height="300px"/> <br/>
 <img src="./TICTACpics/3.png" alt="index1" height="300px"/> <br/>
-<img src="./TICTACpics/6.png" alt="index1" height="300px"/> <br/>
